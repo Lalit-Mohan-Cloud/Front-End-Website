@@ -16,6 +16,6 @@ This is a fully front-end website built using React.js. It contains multiple pag
    - Start brawsing.
 
 ## 📸 Preview
-![image alt]()
+![image alt](https://github.com/Lalit-Mohan-Cloud/Front-End-Website/blob/main/image.png?raw=true)
 
 
